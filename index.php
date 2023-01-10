@@ -3,6 +3,6 @@
   <title>Index</title>
  </head>
  <body>
- <?php echo '<p>Hello world from PHP! Freestyle Project!! 1445</p>'; ?> 
+ <?php echo '<p>Hello world from PHP! Freestyle Project!!</p>'; ?> 
  </body>
 </html>
